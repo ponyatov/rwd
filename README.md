@@ -5,4 +5,4 @@
 
 github: https://github.com/ponyatov/rwd
 
-wiki: https://github.com/ponyatov/nimbook/wiki/rwd
+wiki/ru: https://github.com/ponyatov/nimbook/wiki/rwd
